@@ -25,7 +25,7 @@ import model.Board;
  * ScorePanel displays the score for the current
  * game in session.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 29 Nov 2018
  */
 public class ScorePanel extends JPanel implements PropertyChangeListener {
