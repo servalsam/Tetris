@@ -11,7 +11,7 @@ import java.io.IOException;
 /**
  * The entry point of the program.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 27 Nov 2018
  */
 public final class Main {
