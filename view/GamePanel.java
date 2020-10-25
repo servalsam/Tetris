@@ -31,7 +31,7 @@ import model.Board;
  * GamePanel is a panel that stores a runnable
  * Tetris game.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 27 Nov 2018
  */
 public class GamePanel extends JPanel implements PropertyChangeListener {
