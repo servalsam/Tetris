@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
  * AboutAction is an listener type object that executes
  * a window of information about the program.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 7 Dec 2018
  */
 public class AboutAction extends JOptionPane implements ActionListener {
