@@ -8,7 +8,7 @@ import view.GamePanel;
  * PauseKeyListener is a key adapter that listens for the 
  * key events related to the pause key binded.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 5 Dec 2018
  */
 public class PauseKeyListener extends KeyAdapter {
