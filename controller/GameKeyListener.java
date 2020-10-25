@@ -15,7 +15,7 @@ import view.GamePanel;
  * current game state in session, which listens to key events
  * from the main keyboard section, specifically keys "A, S, W, D, Space Bar".
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 29 Nov 2018
  */
 public class GameKeyListener extends KeyAdapter {
