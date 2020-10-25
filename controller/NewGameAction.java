@@ -13,7 +13,7 @@ import view.GamePanel;
 /**
  * NewGameAction solely starts the current game's timer.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 1 Dec 2018
  */
 public class NewGameAction implements ActionListener {
