@@ -15,7 +15,7 @@ import view.GamePanel;
  * a graceful close option while the game had been started and the
  * window had been forcibly closed.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 5 Dec 2018
  */
 public final class WindowCommands extends WindowAdapter {
