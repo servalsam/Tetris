@@ -37,7 +37,7 @@ import model.Board;
  * The primary graphical user interface of the game. Encapsulates and displays
  * the functions of a Tetris game.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 27 Nov 2018
  */
 public final class GUI extends JFrame implements PropertyChangeListener {
