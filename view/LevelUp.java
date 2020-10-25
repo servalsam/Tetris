@@ -9,7 +9,7 @@ package view;
  * LevelUp is a value wrapper for the current level and the
  * next target goal for lines cleared.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 7 Dec 2018
  */
 public class LevelUp {
