@@ -13,7 +13,7 @@ import model.Board;
  * GameListener is the default listener for the
  * current game session.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 29 Nov 2018
  */
 public class GameListener implements ActionListener {
