@@ -14,7 +14,7 @@ import view.GamePanel;
  * EndGameAction ends the game when
  * a selection is made to do so.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 1 Dec 2018
  */
 public class EndGameAction implements ActionListener {
