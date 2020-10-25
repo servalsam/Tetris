@@ -15,7 +15,7 @@ import view.GamePanel;
  * current game state in session, which listens to key events from
  * the directional number pad's arrows.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 5 Dec 2018
  */
 public class DirectionalKeyListener extends KeyAdapter {
