@@ -25,7 +25,7 @@ import model.Board;
  * PreviewPanel is an augmented JPanel that displays
  * the next piece from the game's board.
  * 
- * @author Sam Wainright
+ * @author Sam Servane
  * @version 29 Nov 2018
  */
 public class PreviewPanel extends JPanel implements PropertyChangeListener {
